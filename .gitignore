@@ -1,0 +1,6 @@
+Example
+.idea
+.vscode
+*.o
+asm
+generate_commits.sh
